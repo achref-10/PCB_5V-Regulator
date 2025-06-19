@@ -7,7 +7,7 @@ This project demonstrates how to build a simple **5V voltage regulator circuit**
 
 ## 📷 Preview
 
-![5V Regulator Circuit](5V Regulator Circuit.png)
+![5V Regulator Circuit]([5V Regulator Circuit.png](https://github.com/achref-10/PCB_5V-Regulator/blob/f0bc8fdec7d37055a307acca891646a1e02ef2de/5V%20Regulator%20Circuit.png))
 
 ---
 
